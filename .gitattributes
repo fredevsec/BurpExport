@@ -1,0 +1,7 @@
+# Normalize line endings to LF on checkin
+* text=auto eol=lf
+
+# Binary types that must not be normalized
+*.jar binary
+*.png binary
+*.burp binary
